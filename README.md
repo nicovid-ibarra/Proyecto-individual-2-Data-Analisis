@@ -67,4 +67,4 @@ Se procede a hacer los graficos pertinentes para lograr la visualizacion de la i
 + *Readme:* Explicacion del trabajo
 + *DATA Power Bi:* Datasets utilizados en Power Bi
 + *DATA:* Los archivos en crudo a los cuales se les hace el EDA
-+ *EDA datasets:* notebooks donde se realiza el EDA a los archivos de DATA
++ *EDA datasets:* notebooks donde se realiza el EDA a los archivos de DATA. Los notebooks que inician con la frase no se usa, se les hizo un eda extensivo pero por no ser necesarios para el dashboards y kpis, no se utilizan los resultados de los mismos.
