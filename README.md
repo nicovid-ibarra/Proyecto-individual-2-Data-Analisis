@@ -39,7 +39,7 @@ Se contactan con el objetivo de clarificar el contexto actual e historico de la 
 
 ### KPI'S para lograr dichos objetivos:
 
-+ **Accesos:** En el caso de los accesos tenemos el archivo de penetracion de internet cada 100 hogares, con la informacion por fecha y provincia, ademas se utilizara a modo de complementacion de informacion el archivo con la cantidad de accesos por tecnologia en cada provincia de la nacion. Ademas se expone para completar la informacion, datos sobre la poblacion, habitantes, densidad de poblacion y sus salarios, para evaluar si conviene incentivar las obras de fibra optica o wireless.
++ **Accesos:** En el caso de los accesos tenemos el archivo de penetracion de internet cada 100 hogares, con la informacion por fecha y provincia, ademas se utilizara a modo de complementacion de informacion el archivo con la cantidad de accesos por tecnologia en cada provincia de la nacion. Ademas se expone para completar la informacion y facilitar las decisiones, datos sobre la poblacion, habitantes, densidad de poblacion y sus salarios, para evaluar si conviene incentivar las obras de fibra optica o invertir en red wireless.
 El kpi a utilizar: Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia. La fórmula es la siguiente:
 
 
